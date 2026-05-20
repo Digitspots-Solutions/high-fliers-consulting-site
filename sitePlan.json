@@ -1,42 +1,56 @@
 {
-  "businessName": "High-Fliers Consulting",
-  "industry": "Financial Services & Insurance",
-  "tone": "formal",
-  "tagline": "Elevating Your Financial Future with Expert Guidance",
+  "businessName": "M Grace Securities Limited",
+  "industry": "Financial Services - Mortgage & Securities",
+  "tone": "formal, authoritative, trustworthy",
+  "tagline": "Your Trusted Partner in Mortgage Solutions and Capital Market Services",
   "sections": [
     {
       "id": "hero",
       "name": "Hero",
-      "copy": "Welcome to High-Fliers Consulting\n\nYour Trusted Partner in Financial Services & Insurance\n\nNavigating the complexities of finance and insurance requires expertise you can trust. At High-Fliers Consulting, we provide professional financial advisory and insurance solutions tailored to individuals and businesses across Lagos and beyond. Let us help you make informed decisions that secure your financial future.",
-      "imagePrompt": "Professional modern Lagos office building exterior with glass windows reflecting blue sky, sleek corporate atmosphere, Nigerian business district setting, contemporary architecture, sharp focus, business professionals walking in background, afternoon natural lighting, photorealistic, high-end financial consulting ambiance",
-      "layout": "centered"
+      "copy": "M Grace Securities Limited - Building Your Financial Future. As a leading mortgage specialist and capital markets firm in Lagos, we provide comprehensive financial solutions tailored to help you achieve homeownership and grow your investments. Licensed, professional, and committed to your success.",
+      "imagePrompt": "Professional Nigerian financial services office with modern glass architecture, Lagos cityscape visible through windows, warm golden hour lighting, confident African business professionals reviewing documents at a sleek desk, photorealistic, high-end corporate photography style",
+      "layout": "split"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "Who We Are\n\nHigh-Fliers Consulting is a leading financial services and insurance consultancy based in Alimosho, Lagos State. We specialize in delivering comprehensive financial advisory services, insurance solutions, and strategic planning to help our clients achieve their financial goals.\n\nWith deep understanding of the Nigerian financial landscape, we provide expert guidance on investments, risk management, insurance products, and wealth creation strategies. Our commitment is to deliver professional, transparent, and client-focused services that build lasting relationships and financial security.\n\nWhether you're an individual seeking personal financial planning or a business requiring corporate insurance solutions, High-Fliers Consulting is equipped with the expertise and resources to elevate your financial success.",
-      "imagePrompt": "Diverse team of Nigerian financial consultants in professional business attire collaborating around modern conference table with laptops and documents, bright modern Lagos office interior, natural window lighting, professional atmosphere, focused expressions, glass walls in background, photorealistic business setting",
-      "layout": "split"
+      "copy": "M Grace Securities Limited (trading as M Grace Capital Markets Co) is a registered financial services institution specializing in mortgage solutions and capital market services. Based in Alimosho, Lagos, we serve individuals, families, and corporate clients across Nigeria with integrity and expertise. Our team combines deep knowledge of the Nigerian financial landscape with a client-first approach, ensuring you receive personalized guidance at every step of your financial journey. Whether you're seeking your first home mortgage, refinancing options, or investment opportunities in the capital markets, M Grace Securities delivers solutions that work for you.",
+      "imagePrompt": "Modern Nigerian financial institution office interior, professional African team collaborating around a conference table with Lagos maps and property documents, natural lighting through large windows, contemporary furniture, plants, warm professional atmosphere, photorealistic",
+      "layout": "centered"
     },
     {
       "id": "services",
       "name": "Our Services",
-      "copy": "Comprehensive Financial Solutions\n\nFinancial Advisory\nExpert guidance on personal and corporate finance, investment strategies, portfolio management, and wealth creation tailored to your unique goals and risk appetite.\n\nInsurance Solutions\nComprehensive insurance products including life insurance, health insurance, property insurance, and corporate insurance packages designed to protect what matters most.\n\nRisk Management\nStrategic risk assessment and mitigation planning for businesses and individuals, ensuring financial stability and security in an uncertain economic environment.\n\nRetirement Planning\nPersonalized retirement strategies and pension advisory services to help you build a secure financial future and enjoy your golden years with confidence.\n\nCorporate Financial Services\nBusiness financial planning, corporate insurance structuring, employee benefit programs, and strategic financial consulting for SMEs and large enterprises.\n\nInvestment Planning\nTailored investment solutions across various asset classes including stocks, bonds, real estate, and mutual funds, aligned with Nigerian market opportunities.",
-      "imagePrompt": "Modern Nigerian financial services iconography and documents spread on executive desk, calculator, financial charts, insurance policy folders, pen, smartphone showing financial app, professional office setting, top-down view, natural lighting, clean organized workspace, Lagos business environment, photorealistic detail",
+      "copy": "**Mortgage Services**\nResidential and commercial mortgage financing | First-time homebuyer programs | Mortgage refinancing | Competitive interest rates | Flexible repayment terms | Expert mortgage advisory\n\n**Capital Markets Services**\nSecurities trading and investment | Portfolio management | Financial advisory | Market research and analysis | Investment planning | Wealth management solutions\n\n**Financial Consultation**\nPersonalized financial planning | Risk assessment | Asset management strategies | Retirement planning | Investment diversification | Professional guidance tailored to your goals",
+      "imagePrompt": "Split composition showing Nigerian family receiving house keys from mortgage specialist on one side, and professional stock market trading floor with digital displays and charts on the other side, bright professional lighting, modern Lagos business environment, photorealistic",
       "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose M Grace Securities",
+      "copy": "**Licensed & Regulated**: Fully registered financial services institution operating within Nigerian regulatory frameworks.\n\n**Mortgage Expertise**: Specialized knowledge in navigating Nigeria's mortgage landscape, from NHF to private lenders.\n\n**Client-Centered Approach**: We take time to understand your unique financial situation and goals.\n\n**Local Knowledge**: Deep understanding of Lagos property market and Alimosho community needs.\n\n**Transparent Process**: Clear communication, no hidden fees, honest advice at every stage.\n\n**Proven Track Record**: Years of experience helping Nigerians achieve homeownership and financial growth.",
+      "imagePrompt": "Warm handshake between African financial advisor and Nigerian couple in modern office setting, certificates and awards on wall in background, natural window lighting, professional yet approachable atmosphere, Lagos cityscape visible, photorealistic, high quality",
+      "layout": "cards"
+    },
+    {
+      "id": "process",
+      "name": "How We Work",
+      "copy": "**1. Initial Consultation**\nSchedule a free consultation to discuss your mortgage or investment needs. We'll assess your financial position and goals.\n\n**2. Custom Solution Design**\nWe develop a tailored financial plan, whether it's securing your ideal mortgage rate or building your investment portfolio.\n\n**3. Documentation & Processing**\nOur team guides you through all required documentation, liaising with lenders, regulators, and other stakeholders on your behalf.\n\n**4. Approval & Execution**\nWe ensure smooth processing and work diligently to secure approvals and execute your financial transactions.\n\n**5. Ongoing Support**\nYour relationship with M Grace Securities doesn't end at closing. We provide continuous support and advisory services.",
+      "imagePrompt": "Clean infographic-style visual showing step-by-step process with Nigerian professionals, modern office setting, documents transitioning to house keys and investment certificates, bright professional lighting, contemporary design, photorealistic",
+      "layout": "default"
     },
     {
       "id": "contact",
       "name": "Contact Us",
-      "copy": "Get in Touch\n\nReady to take control of your financial future? Contact High-Fliers Consulting today for a professional consultation.\n\nOur team is available to answer your questions, provide expert advice, and develop customized financial solutions that meet your specific needs.\n\nOffice Address:\n145, Ekoro Road, Agbelekale, Abule Egba, Lagos State\nAlimosho, Nigeria\n\nPhone: +234 806 127 8675\n\nBusiness Hours:\nMonday - Friday: 9:00 AM - 5:00 PM\nSaturday: 10:00 AM - 2:00 PM\n\nSchedule a consultation today and discover how High-Fliers Consulting can elevate your financial success.",
-      "imagePrompt": "Professional Nigerian receptionist at modern consulting firm front desk with High-Fliers branding, welcoming smile, contemporary Lagos office interior, plants, comfortable seating area, professional atmosphere, bright natural lighting through windows, clean corporate design, photorealistic business environment",
-      "layout": "default"
+      "copy": "Ready to take the next step toward homeownership or grow your investment portfolio? M Grace Securities Limited is here to help.\n\n**Visit Our Office:**\n145, Ekoro Road, Agbelekale, Abule Egba\nLagos State, Nigeria\n\n**Call Us:**\n+234 806 127 8675\n\n**Business Hours:**\nMonday - Friday: 9:00 AM - 5:00 PM\nSaturday: 10:00 AM - 2:00 PM\n\nWhether you prefer to visit our office, call, or message us on WhatsApp, we're ready to provide the expert financial guidance you need. Let's build your financial future together.",
+      "imagePrompt": "Professional Nigerian financial office reception area with comfortable seating, modern decor, friendly receptionist, Lagos neighbourhood visible through windows, warm welcoming atmosphere, late afternoon natural lighting, photorealistic, inviting",
+      "layout": "split"
     }
   ],
   "contact": {
     "phone": "+234 806 127 8675",
-    "email": "info@highfliersconsulting.ng",
-    "address": "145, Ekoro Road, Agbelekale, Abule Egba, Lagos State, Alimosho, Nigeria",
+    "email": "info@mgraceng.com",
+    "address": "145, Ekoro Road, Agbelekale, Abule Egba, Lagos State, Nigeria",
     "whatsapp": "https://wa.me/2348061278675"
   }
 }
